@@ -1,6 +1,6 @@
 function randomString() {
 
-    var output = Math.floor(Math.random() * 32); 
+    var output = Math.floor(Math.random() * 56); 
 
     var source = 'media/ ' + output + '.jpg';
 
